@@ -302,7 +302,7 @@ EM是相对于其父元素来设置字体大小的，这样就会存在一个问
 ### 5. 怎么理解错误优先回调函数
 
 ### 6. 你常用的node组件体系，说说为什么
-```
+
 mysql
 功能简介：mysql- node.js平台mysql驱动，支持事务、连接池、集群、sql注入检测、多做参数传递写法等特性。
 ![主页地址](https://github.com/felixge/node-mysql)
@@ -376,7 +376,7 @@ debug
 
 功能简介：debug- node.js debug工具，对console.log的封装，支持多种颜色输出。
 ![主页地址](https://github.com/visionmedia/debug)
-```
+
 
 ### 7. 如何用node实现一个redis ression中间件
 
