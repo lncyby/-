@@ -36,7 +36,7 @@ removeChild() : 移除节点
 insertBefore() : 将新节点插入到前面  
 cloneNode() : 复制节点
 
-**js 查找节点 **
+**js 查找节点**
 ```
 document.getElementById();
 document.getElementsByTagName();
