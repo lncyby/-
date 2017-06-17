@@ -32,7 +32,8 @@ $("#hide").click(function(){
 createElement() : 创建元素节点  
 createTextNode() : 创建文本节点  
 appendChild() : 将新节点追加到子节点的末尾  
-replaceChild() :　将新节点替换旧节点　　
+replaceChild() :　将新节点替换旧节点　  
+
 removeChild() : 移除节点  
 insertBefore() : 将新节点插入到前面  
 cloneNode() : 复制节点
