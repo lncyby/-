@@ -83,10 +83,11 @@ document.getElementsByName();
 ```
 ### react 优缺点
 **比较现实的优点：**  
-能够实现服务器端的渲染，便于搜索引擎优化。这一点要比Backbone, Angular 1.x和Ember早期强能够很好的和现有的代码结合  
-。React只是MVC中的View层，对于其他的部分并没有硬性要求。意味着很多公司在选择用Angular全部重构和用React部分重构的时候，选择了  
-React部分重构因为一切都是component，所以代码更加模块化，重用代码更容易学起来非常容易，几个小时就可以入门因为强调只从this.props和  
-this.state生成HTML，写起来bug比较少比较高大上的优点，就是大家在大会上会说的优点：因为用了virtual dom，所以性能很好因为强调只从  
-this.props和this.state生成HTML，所以非常的functional programming  
+能够实现服务器端的渲染，便于搜索引擎优化。这一点要比Backbone, Angular 1.x和Ember早期强  
+能够很好的和现有的代码结合。React只是MVC中的View层，对于其他的部分并没有硬性要求。意味着很多公司在选择用Angular全部重构和用React部分重构的时候，选择了React部分重构  
+因为一切都是component，所以代码更加模块化，重用代码更容易  
+学起来非常容易，几个小时就可以入门  
+因为强调只从this.props和this.state生成HTML，写起来bug比较少
+
 **缺点：**  
 并不是一个完整的框架，基本都需要加上ReactRouter和Flux才能写大型应用
